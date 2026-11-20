@@ -69,7 +69,7 @@ SQL används för att styra en relationsdatabas och ställa frågor till den.
    NoSQL är databaser som inte använder vanliga tabeller. 
    Istället sparas informationen som dokument, nyckel och värde, kolumner eller grafer.
 
-   8. Ge ett exempel på när en NoSQL-databas kan vara lämplig och förklara varför.
+8. Ge ett exempel på när en NoSQL-databas kan vara lämplig och förklara varför.
    
    Ett bra exempel är en fotbollsapp som visar livestatistik under matcher. 
    En NoSQL-databas är lämplig här eftersom olika spelare och händelser har helt olika statistik, en målvakt har räddningar, 
